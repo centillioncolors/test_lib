@@ -1,0 +1,16 @@
+{
+  "name": "test_lib",
+  "version": "1.0.0",
+  "description": "private library",
+  "main": "index.js",
+  "repository": {
+    "type":"git",
+    "url": "centillioncolors/test_lib#master"
+  }
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
